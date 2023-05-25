@@ -12,6 +12,6 @@ while minimizing the increase in network traffic through parallel data flow.
 
 **Performance test using HMI (developed within TIA project)**
 
-Data transmission between S7-1500 PLC and MQTT Mosquitto broker
+Data transmission (six signals) between S7-1500 PLC and MQTT Mosquitto broker
 
 <img src="HMI.png">
