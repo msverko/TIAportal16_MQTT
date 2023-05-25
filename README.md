@@ -12,4 +12,4 @@ while minimizing the increase in network traffic through parallel data flow.
 
 **Performance test using HMI (developed within TIA project)**
 
-<img src="HMI.jpg">
+<img src="HMI.png">
